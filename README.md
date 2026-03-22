@@ -10,16 +10,9 @@ Let's see My Curriculum Vitae:
 
 ---
 
-## 🚀 Learning Roadmap
+## 🚀 Some Project Learning
 
 - 📊 [Introduction to Data](link-repo)
 - 🧠 [Data Analyst Fundamentals](link-repo)
 - 📈 [Data Analysis Projects](link-repo)
 - 🤖 [Machine Learning Projects](link-repo)
-
----
-
-## 🌟 Featured Projects
-
-- Customer Segmentation → Insight for targeted marketing  
-- Time Series Forecasting → Sales prediction  
