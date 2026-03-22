@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Yesaya Arya 👋  
+I turn data into actionable business insights.
 
-<!--
-**Yesaya03/Yesaya03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Tools: Python, SQL, Power BI  
+📊 Focus: Data Analysis, Visualization, Machine Learning  
 
-Here are some ideas to get you started:
+Let's see My Curriculum Vitae: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://drive.google.com/file/d/1bFT6W0rcXyfgCiG-5uXbVhgWt56zr6aM/view?usp=share_link
+
+---
+
+## 🚀 Learning Roadmap
+
+- 📊 [Introduction to Data](link-repo)
+- 🧠 [Data Analyst Fundamentals](link-repo)
+- 📈 [Data Analysis Projects](link-repo)
+- 🤖 [Machine Learning Projects](link-repo)
+
+---
+
+## 🌟 Featured Projects
+
+- Customer Segmentation → Insight for targeted marketing  
+- Time Series Forecasting → Sales prediction  
