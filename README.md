@@ -6,7 +6,7 @@ I turn data into actionable business insights.
 
 Let's see My Curriculum Vitae: 
 
-https://drive.google.com/file/d/1bFT6W0rcXyfgCiG-5uXbVhgWt56zr6aM/view?usp=share_link
+[View](https://drive.google.com/file/d/1bFT6W0rcXyfgCiG-5uXbVhgWt56zr6aM/view?usp=share_link)
 
 ---
 
